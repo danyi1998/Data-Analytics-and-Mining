@@ -1,0 +1,1778 @@
+attacktype1,targtype1,weaptype1,attacktype1_txt,targtype1_txt,weaptype1_txt
+7,16,8,Facility/Infrastructure Attack,Telecommunication,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,5,Facility/Infrastructure Attack,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+1,3,6,Assassination,Police,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+1,14,5,Assassination,Private Citizens & Property,Firearms
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+6,10,5,Hostage Taking (Kidnapping),Journalists & Media,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,22,6,Bombing/Explosion,Violent Political Party,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,22,6,Bombing/Explosion,Violent Political Party,Explosives
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+7,1,5,Facility/Infrastructure Attack,Business,Firearms
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+1,10,5,Assassination,Journalists & Media,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,10,5,Facility/Infrastructure Attack,Journalists & Media,Firearms
+7,10,5,Facility/Infrastructure Attack,Journalists & Media,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,22,6,Bombing/Explosion,Violent Political Party,Explosives
+2,1,5,Armed Assault,Business,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+1,2,5,Assassination,Government (General),Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,10,6,Bombing/Explosion,Journalists & Media,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,2,2,Bombing/Explosion,Government (General),Chemical
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,21,5,Facility/Infrastructure Attack,Utilities,Firearms
+3,10,6,Bombing/Explosion,Journalists & Media,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,8,5,Armed Assault,Educational Institution,Firearms
+3,6,6,Bombing/Explosion,Airports & Aircraft,Explosives
+4,20,6,Hijacking,Unknown,Explosives
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,5,Armed Assault,Police,Firearms
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+8,2,1,Unarmed Assault,Government (General),Biological
+8,14,1,Unarmed Assault,Private Citizens & Property,Biological
+8,2,1,Unarmed Assault,Government (General),Biological
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,4,9,Armed Assault,Military,Melee
+7,15,9,Facility/Infrastructure Attack,Religious Figures/Institutions,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,4,9,Armed Assault,Military,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,15,8,Armed Assault,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+5,3,9,Hostage Taking (Barricade Incident),Police,Melee
+8,10,12,Unarmed Assault,Journalists & Media,Other
+8,10,12,Unarmed Assault,Journalists & Media,Other
+3,3,6,Bombing/Explosion,Police,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+2,8,8,Armed Assault,Educational Institution,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+2,17,5,Armed Assault,Terrorists/Non-State Militia,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+2,3,8,Armed Assault,Police,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,3,8,Armed Assault,Police,Incendiary
+2,3,9,Armed Assault,Police,Melee
+2,2,8,Armed Assault,Government (General),Incendiary
+2,1,8,Armed Assault,Business,Incendiary
+2,1,8,Armed Assault,Business,Incendiary
+2,1,8,Armed Assault,Business,Incendiary
+2,3,9,Armed Assault,Police,Melee
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,9,Armed Assault,Police,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,8,8,Armed Assault,Educational Institution,Incendiary
+2,8,8,Armed Assault,Educational Institution,Incendiary
+7,14,12,Facility/Infrastructure Attack,Private Citizens & Property,Other
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+1,2,6,Assassination,Government (General),Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+9,10,13,Unknown,Journalists & Media,Unknown
+9,14,13,Unknown,Private Citizens & Property,Unknown
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,5,8,Facility/Infrastructure Attack,Abortion Related,Incendiary
+7,5,8,Facility/Infrastructure Attack,Abortion Related,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,22,5,Armed Assault,Violent Political Party,Firearms
+2,6,5,Armed Assault,Airports & Aircraft,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+2,10,5,Armed Assault,Journalists & Media,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,3,6,Armed Assault,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+2,10,5,Armed Assault,Journalists & Media,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+4,3,13,Hijacking,Police,Unknown
+4,1,6,Hijacking,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,21,6,Bombing/Explosion,Utilities,Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,5,Armed Assault,Police,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+2,3,5,Armed Assault,Police,Firearms
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,1,8,Armed Assault,Business,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+8,1,9,Unarmed Assault,Business,Melee
+6,14,9,Hostage Taking (Kidnapping),Private Citizens & Property,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,5,Armed Assault,Police,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,7,5,Assassination,Government (Diplomatic),Firearms
+2,3,6,Armed Assault,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+6,10,5,Hostage Taking (Kidnapping),Journalists & Media,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+7,4,8,Facility/Infrastructure Attack,Military,Incendiary
+3,4,6,Bombing/Explosion,Military,Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,10,9,Armed Assault,Journalists & Media,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,19,9,Armed Assault,Transportation,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,16,8,Facility/Infrastructure Attack,Telecommunication,Incendiary
+7,16,8,Facility/Infrastructure Attack,Telecommunication,Incendiary
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,9,Armed Assault,Police,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+8,8,9,Unarmed Assault,Educational Institution,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,15,5,Facility/Infrastructure Attack,Religious Figures/Institutions,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,2,5,Armed Assault,Government (General),Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,3,8,Armed Assault,Police,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,12,8,Facility/Infrastructure Attack,NGO,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,2,9,Armed Assault,Government (General),Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+6,12,13,Hostage Taking (Kidnapping),NGO,Unknown
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,2,2,Bombing/Explosion,Government (General),Chemical
+2,19,9,Armed Assault,Transportation,Melee
+3,1,6,Bombing/Explosion,Business,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,5,Facility/Infrastructure Attack,Private Citizens & Property,Firearms
+6,12,8,Hostage Taking (Kidnapping),NGO,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,3,5,Armed Assault,Police,Firearms
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,3,5,Armed Assault,Police,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,3,5,Facility/Infrastructure Attack,Police,Firearms
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+2,1,9,Armed Assault,Business,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,3,8,Armed Assault,Police,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,12,8,Facility/Infrastructure Attack,NGO,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,6,6,Bombing/Explosion,Airports & Aircraft,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+9,2,13,Unknown,Government (General),Unknown
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,2,9,Armed Assault,Government (General),Melee
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+1,15,9,Assassination,Religious Figures/Institutions,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+8,2,10,Unarmed Assault,Government (General),"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+2,19,8,Armed Assault,Transportation,Incendiary
+4,1,6,Hijacking,Business,Explosives
+2,3,8,Armed Assault,Police,Incendiary
+8,2,10,Unarmed Assault,Government (General),"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,4,8,Facility/Infrastructure Attack,Military,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,3,8,Armed Assault,Police,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+1,2,5,Assassination,Government (General),Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+2,3,5,Armed Assault,Police,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+8,14,2,Unarmed Assault,Private Citizens & Property,Chemical
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,6,Armed Assault,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,4,9,Armed Assault,Military,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,4,5,Armed Assault,Military,Firearms
+2,3,9,Armed Assault,Police,Melee
+3,3,6,Bombing/Explosion,Police,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+8,2,10,Unarmed Assault,Government (General),"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,2,5,Armed Assault,Government (General),Firearms
+2,3,5,Armed Assault,Police,Firearms
+2,7,5,Armed Assault,Government (Diplomatic),Firearms
+2,14,6,Armed Assault,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+2,7,5,Armed Assault,Government (Diplomatic),Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,3,9,Armed Assault,Police,Melee
+2,3,5,Armed Assault,Police,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+1,10,9,Assassination,Journalists & Media,Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+5,10,6,Hostage Taking (Barricade Incident),Journalists & Media,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+2,15,6,Armed Assault,Religious Figures/Institutions,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+5,1,5,Hostage Taking (Barricade Incident),Business,Firearms
+5,1,5,Hostage Taking (Barricade Incident),Business,Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,1,5,Armed Assault,Business,Firearms
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+2,1,5,Armed Assault,Business,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,4,9,Armed Assault,Military,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+6,10,5,Hostage Taking (Kidnapping),Journalists & Media,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,8,Armed Assault,Police,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+5,14,5,Hostage Taking (Barricade Incident),Private Citizens & Property,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+1,3,5,Assassination,Police,Firearms
+7,4,8,Facility/Infrastructure Attack,Military,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+1,7,9,Assassination,Government (Diplomatic),Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,19,9,Armed Assault,Transportation,Melee
+1,4,9,Assassination,Military,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+6,3,9,Hostage Taking (Kidnapping),Police,Melee
+5,1,8,Hostage Taking (Barricade Incident),Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,1,8,Armed Assault,Business,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,6,8,Armed Assault,Airports & Aircraft,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,13,8,Armed Assault,Other,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+9,20,13,Unknown,Unknown,Unknown
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+8,2,12,Unarmed Assault,Government (General),Other
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,4,6,Bombing/Explosion,Military,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+1,10,13,Assassination,Journalists & Media,Unknown
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+2,2,8,Armed Assault,Government (General),Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+9,22,13,Unknown,Violent Political Party,Unknown
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+8,19,9,Unarmed Assault,Transportation,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,6,Armed Assault,Police,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,20,8,Facility/Infrastructure Attack,Unknown,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+5,1,6,Hostage Taking (Barricade Incident),Business,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+1,10,9,Assassination,Journalists & Media,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,10,10,Assassination,Journalists & Media,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+2,3,8,Armed Assault,Police,Incendiary
+3,12,6,Bombing/Explosion,NGO,Explosives
+1,10,5,Assassination,Journalists & Media,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,13,8,Armed Assault,Other,Incendiary
+2,13,8,Armed Assault,Other,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,3,9,Armed Assault,Police,Melee
+2,3,8,Armed Assault,Police,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+6,18,9,Hostage Taking (Kidnapping),Tourists,Melee
+3,1,6,Bombing/Explosion,Business,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,4,5,Armed Assault,Military,Firearms
+2,4,5,Armed Assault,Military,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,5,8,Facility/Infrastructure Attack,Abortion Related,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,1,5,Armed Assault,Business,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+1,2,6,Assassination,Government (General),Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,6,8,Armed Assault,Airports & Aircraft,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,5,8,Facility/Infrastructure Attack,Abortion Related,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,4,6,Bombing/Explosion,Military,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,19,5,Armed Assault,Transportation,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,9,6,Bombing/Explosion,Food or Water Supply,Explosives
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,5,8,Facility/Infrastructure Attack,Abortion Related,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,13,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+5,1,13,Hostage Taking (Barricade Incident),Business,Unknown
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+2,3,9,Armed Assault,Police,Melee
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,1,9,Armed Assault,Business,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,5,8,Facility/Infrastructure Attack,Abortion Related,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+5,8,5,Hostage Taking (Barricade Incident),Educational Institution,Firearms
+1,2,6,Assassination,Government (General),Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,4,6,Bombing/Explosion,Military,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+1,14,9,Assassination,Private Citizens & Property,Melee
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,8,9,Armed Assault,Educational Institution,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,15,9,Armed Assault,Religious Figures/Institutions,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+9,14,13,Unknown,Private Citizens & Property,Unknown
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,8,9,Armed Assault,Educational Institution,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,14,9,Facility/Infrastructure Attack,Private Citizens & Property,Melee
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+9,14,13,Unknown,Private Citizens & Property,Unknown
+3,1,6,Bombing/Explosion,Business,Explosives
+2,1,5,Armed Assault,Business,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+2,1,5,Armed Assault,Business,Firearms
+2,1,5,Armed Assault,Business,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+5,1,6,Hostage Taking (Barricade Incident),Business,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,13,Facility/Infrastructure Attack,Private Citizens & Property,Unknown
+7,14,13,Facility/Infrastructure Attack,Private Citizens & Property,Unknown
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,3,5,Armed Assault,Police,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+5,5,5,Hostage Taking (Barricade Incident),Abortion Related,Firearms
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,3,8,Armed Assault,Police,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,1,5,Armed Assault,Business,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+2,19,9,Armed Assault,Transportation,Melee
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+8,3,8,Unarmed Assault,Police,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,20,8,Facility/Infrastructure Attack,Unknown,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+8,4,9,Unarmed Assault,Military,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,2,9,Unarmed Assault,Government (General),Melee
+7,1,9,Facility/Infrastructure Attack,Business,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+8,13,9,Unarmed Assault,Other,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,15,8,Armed Assault,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,1,5,Armed Assault,Business,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+8,4,10,Unarmed Assault,Military,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,2,5,Facility/Infrastructure Attack,Government (General),Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,3,5,Armed Assault,Police,Firearms
+2,3,9,Armed Assault,Police,Melee
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+8,14,2,Unarmed Assault,Private Citizens & Property,Chemical
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,1,5,Armed Assault,Business,Firearms
+2,8,9,Armed Assault,Educational Institution,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,13,Facility/Infrastructure Attack,Private Citizens & Property,Unknown
+7,14,13,Facility/Infrastructure Attack,Private Citizens & Property,Unknown
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,13,Facility/Infrastructure Attack,Private Citizens & Property,Unknown
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,5,Facility/Infrastructure Attack,Business,Firearms
+7,1,5,Facility/Infrastructure Attack,Business,Firearms
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,10,9,Unarmed Assault,Journalists & Media,Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+2,1,9,Armed Assault,Business,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+8,15,9,Unarmed Assault,Religious Figures/Institutions,Melee
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+1,2,6,Assassination,Government (General),Explosives
+2,3,9,Armed Assault,Police,Melee
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,15,8,Armed Assault,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+2,4,9,Armed Assault,Military,Melee
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,6,6,Bombing/Explosion,Airports & Aircraft,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+4,14,8,Hijacking,Private Citizens & Property,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,8,8,Facility/Infrastructure Attack,Educational Institution,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,8,8,Facility/Infrastructure Attack,Educational Institution,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,4,9,Armed Assault,Military,Melee
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,3,12,Facility/Infrastructure Attack,Police,Other
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+4,19,8,Hijacking,Transportation,Incendiary
+6,14,5,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,6,6,Bombing/Explosion,Airports & Aircraft,Explosives
+2,3,8,Armed Assault,Police,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,5,8,Facility/Infrastructure Attack,Abortion Related,Incendiary
+2,4,9,Armed Assault,Military,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,2,6,Assassination,Government (General),Explosives
+2,20,9,Armed Assault,Unknown,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,7,6,Bombing/Explosion,Government (Diplomatic),Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+9,14,13,Unknown,Private Citizens & Property,Unknown
+5,1,5,Hostage Taking (Barricade Incident),Business,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,3,9,Assassination,Police,Melee
+1,2,5,Assassination,Government (General),Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,7,8,Armed Assault,Government (Diplomatic),Incendiary
+1,14,5,Assassination,Private Citizens & Property,Firearms
+2,2,8,Armed Assault,Government (General),Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,9,Facility/Infrastructure Attack,Religious Figures/Institutions,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,1,8,Armed Assault,Business,Incendiary
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+2,3,5,Armed Assault,Police,Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,19,8,Armed Assault,Transportation,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,3,5,Armed Assault,Police,Firearms
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,8,8,Facility/Infrastructure Attack,Educational Institution,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+6,4,9,Hostage Taking (Kidnapping),Military,Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,12,8,Facility/Infrastructure Attack,NGO,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,13,8,Facility/Infrastructure Attack,Other,Incendiary
+5,15,5,Hostage Taking (Barricade Incident),Religious Figures/Institutions,Firearms
+5,1,9,Hostage Taking (Barricade Incident),Business,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,8,8,Facility/Infrastructure Attack,Educational Institution,Incendiary
+1,2,6,Assassination,Government (General),Explosives
+2,1,8,Armed Assault,Business,Incendiary
+7,14,9,Facility/Infrastructure Attack,Private Citizens & Property,Melee
+7,14,9,Facility/Infrastructure Attack,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+7,15,13,Facility/Infrastructure Attack,Religious Figures/Institutions,Unknown
+2,7,5,Armed Assault,Government (Diplomatic),Firearms
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+6,4,13,Hostage Taking (Kidnapping),Military,Unknown
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,9,Armed Assault,Police,Melee
+3,3,6,Bombing/Explosion,Police,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,3,6,Armed Assault,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,2,13,Facility/Infrastructure Attack,Government (General),Unknown
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,10,6,Bombing/Explosion,Journalists & Media,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+2,3,9,Armed Assault,Police,Melee
+2,3,5,Armed Assault,Police,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,20,8,Armed Assault,Unknown,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,1,9,Armed Assault,Business,Melee
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,10,8,Facility/Infrastructure Attack,Journalists & Media,Incendiary
+7,14,9,Facility/Infrastructure Attack,Private Citizens & Property,Melee
+7,14,9,Facility/Infrastructure Attack,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,2,9,Unarmed Assault,Government (General),Melee
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,2,13,Facility/Infrastructure Attack,Government (General),Unknown
+2,3,5,Armed Assault,Police,Firearms
+2,3,9,Armed Assault,Police,Melee
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,3,9,Unarmed Assault,Police,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+6,14,5,Hostage Taking (Kidnapping),Private Citizens & Property,Firearms
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,7,8,Facility/Infrastructure Attack,Government (Diplomatic),Incendiary
+7,15,12,Facility/Infrastructure Attack,Religious Figures/Institutions,Other
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,7,6,Bombing/Explosion,Government (Diplomatic),Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,1,5,Armed Assault,Business,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+1,14,5,Assassination,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+3,2,6,Bombing/Explosion,Government (General),Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+1,2,6,Assassination,Government (General),Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+1,10,12,Assassination,Journalists & Media,Other
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+4,14,5,Hijacking,Private Citizens & Property,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,5,Armed Assault,Police,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+8,10,9,Unarmed Assault,Journalists & Media,Melee
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+1,10,5,Assassination,Journalists & Media,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+6,14,9,Hostage Taking (Kidnapping),Private Citizens & Property,Melee
+3,2,6,Bombing/Explosion,Government (General),Explosives
+6,15,9,Hostage Taking (Kidnapping),Religious Figures/Institutions,Melee
+3,12,6,Bombing/Explosion,NGO,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,6,5,Armed Assault,Airports & Aircraft,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+1,7,5,Assassination,Government (Diplomatic),Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,3,6,Bombing/Explosion,Police,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,19,6,Bombing/Explosion,Transportation,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,3,5,Armed Assault,Police,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+2,3,8,Armed Assault,Police,Incendiary
+9,2,13,Unknown,Government (General),Unknown
+9,10,13,Unknown,Journalists & Media,Unknown
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,5,Armed Assault,Police,Firearms
+2,4,9,Armed Assault,Military,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+5,1,13,Hostage Taking (Barricade Incident),Business,Unknown
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,8,8,Facility/Infrastructure Attack,Educational Institution,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,4,8,Facility/Infrastructure Attack,Military,Incendiary
+7,4,8,Facility/Infrastructure Attack,Military,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+3,1,6,Bombing/Explosion,Business,Explosives
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+1,14,5,Assassination,Private Citizens & Property,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+1,2,6,Assassination,Government (General),Explosives
+1,12,6,Assassination,NGO,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+5,4,5,Hostage Taking (Barricade Incident),Military,Firearms
+1,10,5,Assassination,Journalists & Media,Firearms
+1,7,6,Assassination,Government (Diplomatic),Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,3,6,Bombing/Explosion,Police,Explosives
+2,3,9,Armed Assault,Police,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+1,10,5,Assassination,Journalists & Media,Firearms
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+4,14,6,Hijacking,Private Citizens & Property,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+2,1,5,Armed Assault,Business,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,3,6,Bombing/Explosion,Police,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+1,2,9,Assassination,Government (General),Melee
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+1,10,5,Assassination,Journalists & Media,Firearms
+2,15,9,Armed Assault,Religious Figures/Institutions,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,3,9,Armed Assault,Police,Melee
+1,10,5,Assassination,Journalists & Media,Firearms
+3,1,6,Bombing/Explosion,Business,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+5,1,5,Hostage Taking (Barricade Incident),Business,Firearms
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,1,6,Bombing/Explosion,Business,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,8,9,Facility/Infrastructure Attack,Educational Institution,Melee
+1,2,6,Assassination,Government (General),Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+2,10,5,Armed Assault,Journalists & Media,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+2,1,9,Armed Assault,Business,Melee
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+8,3,9,Unarmed Assault,Police,Melee
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,21,8,Facility/Infrastructure Attack,Utilities,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,15,9,Armed Assault,Religious Figures/Institutions,Melee
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+1,2,5,Assassination,Government (General),Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,8,6,Bombing/Explosion,Educational Institution,Explosives
+7,16,8,Facility/Infrastructure Attack,Telecommunication,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+3,3,6,Bombing/Explosion,Police,Explosives
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+7,19,8,Facility/Infrastructure Attack,Transportation,Incendiary
+3,19,6,Bombing/Explosion,Transportation,Explosives
+2,3,9,Armed Assault,Police,Melee
+8,14,2,Unarmed Assault,Private Citizens & Property,Chemical
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+3,1,6,Bombing/Explosion,Business,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+5,15,9,Hostage Taking (Barricade Incident),Religious Figures/Institutions,Melee
+1,7,9,Assassination,Government (Diplomatic),Melee
+2,3,5,Armed Assault,Police,Firearms
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,16,8,Facility/Infrastructure Attack,Telecommunication,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+8,14,8,Unarmed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,3,9,Armed Assault,Police,Melee
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+8,2,2,Unarmed Assault,Government (General),Chemical
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+2,4,9,Armed Assault,Military,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+8,4,10,Unarmed Assault,Military,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+3,20,6,Bombing/Explosion,Unknown,Explosives
+6,14,9,Hostage Taking (Kidnapping),Private Citizens & Property,Melee
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+4,14,9,Hijacking,Private Citizens & Property,Melee
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+2,4,9,Armed Assault,Military,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,6,Armed Assault,Private Citizens & Property,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+1,10,5,Assassination,Journalists & Media,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,3,9,Armed Assault,Police,Melee
+2,4,9,Armed Assault,Military,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+4,14,5,Hijacking,Private Citizens & Property,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+8,3,9,Unarmed Assault,Police,Melee
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+8,14,12,Unarmed Assault,Private Citizens & Property,Other
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,19,6,Bombing/Explosion,Transportation,Explosives
+2,4,9,Armed Assault,Military,Melee
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+2,15,5,Armed Assault,Religious Figures/Institutions,Firearms
+2,15,9,Armed Assault,Religious Figures/Institutions,Melee
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,3,9,Armed Assault,Police,Melee
+8,14,10,Unarmed Assault,Private Citizens & Property,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,19,9,Armed Assault,Transportation,Melee
+2,1,5,Armed Assault,Business,Firearms
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+3,6,6,Bombing/Explosion,Airports & Aircraft,Explosives
+2,14,9,Armed Assault,Private Citizens & Property,Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+1,10,6,Assassination,Journalists & Media,Explosives
+7,2,13,Facility/Infrastructure Attack,Government (General),Unknown
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,2,13,Facility/Infrastructure Attack,Government (General),Unknown
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,19,5,Armed Assault,Transportation,Firearms
+9,1,13,Unknown,Business,Unknown
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+2,1,8,Armed Assault,Business,Incendiary
+8,14,9,Unarmed Assault,Private Citizens & Property,Melee
+8,18,10,Unarmed Assault,Tourists,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+7,1,13,Facility/Infrastructure Attack,Business,Unknown
+8,14,12,Unarmed Assault,Private Citizens & Property,Other
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+7,1,8,Facility/Infrastructure Attack,Business,Incendiary
+2,3,5,Armed Assault,Police,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,5,6,Bombing/Explosion,Abortion Related,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,20,6,Bombing/Explosion,Unknown,Explosives
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+3,2,6,Bombing/Explosion,Government (General),Explosives
+1,10,8,Assassination,Journalists & Media,Incendiary
+7,2,8,Facility/Infrastructure Attack,Government (General),Incendiary
+3,20,6,Bombing/Explosion,Unknown,Explosives
+1,2,9,Assassination,Government (General),Melee
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+3,3,6,Bombing/Explosion,Police,Explosives
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,1,9,Facility/Infrastructure Attack,Business,Melee
+2,8,5,Armed Assault,Educational Institution,Firearms
+7,15,8,Facility/Infrastructure Attack,Religious Figures/Institutions,Incendiary
+3,19,6,Bombing/Explosion,Transportation,Explosives
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
+3,14,6,Bombing/Explosion,Private Citizens & Property,Explosives
+1,10,5,Assassination,Journalists & Media,Firearms
+8,10,9,Unarmed Assault,Journalists & Media,Melee
+7,10,13,Facility/Infrastructure Attack,Journalists & Media,Unknown
+3,2,6,Bombing/Explosion,Government (General),Explosives
+2,3,5,Armed Assault,Police,Firearms
+2,3,5,Armed Assault,Police,Firearms
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+3,15,6,Bombing/Explosion,Religious Figures/Institutions,Explosives
+7,3,8,Facility/Infrastructure Attack,Police,Incendiary
+2,14,8,Armed Assault,Private Citizens & Property,Incendiary
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+9,14,13,Unknown,Private Citizens & Property,Unknown
+9,14,13,Unknown,Private Citizens & Property,Unknown
+2,14,5,Armed Assault,Private Citizens & Property,Firearms
+7,14,8,Facility/Infrastructure Attack,Private Citizens & Property,Incendiary
