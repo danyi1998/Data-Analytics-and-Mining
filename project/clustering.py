@@ -37,7 +37,13 @@ df_clusters.columns = ["cluster"]
 
 df_with_clusters = pd.concat([df, df_clusters], axis = 1).reset_index()
 
+df_with_clusters.to_csv("df_with_clusters.csv")
 
+
+
+'''
+# not necessary, but just leave it here in case I need it in the future
+# check the code again if using
 
 
 df_cluster_0 = df_with_clusters[df_with_clusters["cluster"]==0]
@@ -53,7 +59,7 @@ ax.set_ylabel("weapon type")
 ax.set_zlabel("target type")
 
 plt.show()
-
+'''
 
 
 
