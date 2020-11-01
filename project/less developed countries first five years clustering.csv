@@ -1,0 +1,611 @@
+attacktype1,attacktype1_txt,targtype1,targtype1_txt,weaptype1,weaptype1_txt
+1,Assassination,14,Private Citizens & Property,13,Unknown
+1,Assassination,10,Journalists & Media,13,Unknown
+1,Assassination,3,Police,5,Firearms
+3,Bombing/Explosion,2,Government (General),6,Explosives
+9,Unknown,4,Military,13,Unknown
+2,Armed Assault,8,Educational Institution,5,Firearms
+1,Assassination,7,Government (Diplomatic),13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+7,Facility/Infrastructure Attack,3,Police,8,Incendiary
+9,Unknown,4,Military,13,Unknown
+2,Armed Assault,18,Tourists,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),5,Firearms
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),10,Journalists & Media,13,Unknown
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+9,Unknown,4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+9,Unknown,4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+2,Armed Assault,4,Military,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+7,Facility/Infrastructure Attack,2,Government (General),8,Incendiary
+1,Assassination,7,Government (Diplomatic),5,Firearms
+7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+1,Assassination,4,Military,5,Firearms
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+2,Armed Assault,4,Military,5,Firearms
+1,Assassination,2,Government (General),5,Firearms
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+9,Unknown,4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+5,Hostage Taking (Barricade Incident),1,Business,5,Firearms
+5,Hostage Taking (Barricade Incident),1,Business,5,Firearms
+1,Assassination,4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+9,Unknown,7,Government (Diplomatic),13,Unknown
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+1,Assassination,3,Police,5,Firearms
+3,Bombing/Explosion,2,Government (General),6,Explosives
+2,Armed Assault,1,Business,5,Firearms
+3,Bombing/Explosion,3,Police,6,Explosives
+3,Bombing/Explosion,3,Police,6,Explosives
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+5,Hostage Taking (Barricade Incident),16,Telecommunication,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+1,Assassination,2,Government (General),6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+6,Hostage Taking (Kidnapping),10,Journalists & Media,13,Unknown
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+2,Armed Assault,3,Police,5,Firearms
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),3,Police,13,Unknown
+2,Armed Assault,1,Business,5,Firearms
+3,Bombing/Explosion,4,Military,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+2,Armed Assault,4,Military,8,Incendiary
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+7,Facility/Infrastructure Attack,10,Journalists & Media,8,Incendiary
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+7,Facility/Infrastructure Attack,6,Airports & Aircraft,8,Incendiary
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+7,Facility/Infrastructure Attack,2,Government (General),8,Incendiary
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,14,Private Citizens & Property,13,Unknown
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+1,Assassination,7,Government (Diplomatic),10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)"
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives
+7,Facility/Infrastructure Attack,6,Airports & Aircraft,8,Incendiary
+1,Assassination,3,Police,5,Firearms
+3,Bombing/Explosion,2,Government (General),6,Explosives
+3,Bombing/Explosion,2,Government (General),6,Explosives
+2,Armed Assault,4,Military,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+2,Armed Assault,1,Business,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+2,Armed Assault,1,Business,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,8,Educational Institution,6,Explosives
+1,Assassination,10,Journalists & Media,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+2,Armed Assault,3,Police,5,Firearms
+2,Armed Assault,1,Business,5,Firearms
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+1,Assassination,3,Police,5,Firearms
+2,Armed Assault,1,Business,5,Firearms
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+2,Armed Assault,8,Educational Institution,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+2,Armed Assault,1,Business,5,Firearms
+7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary
+3,Bombing/Explosion,4,Military,6,Explosives
+2,Armed Assault,8,Educational Institution,5,Firearms
+2,Armed Assault,10,Journalists & Media,5,Firearms
+2,Armed Assault,8,Educational Institution,5,Firearms
+2,Armed Assault,8,Educational Institution,5,Firearms
+2,Armed Assault,10,Journalists & Media,5,Firearms
+3,Bombing/Explosion,2,Government (General),6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,2,Government (General),6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,4,Military,6,Explosives
+2,Armed Assault,3,Police,5,Firearms
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+3,Bombing/Explosion,4,Military,6,Explosives
+3,Bombing/Explosion,8,Educational Institution,6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),14,Private Citizens & Property,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+2,Armed Assault,7,Government (Diplomatic),8,Incendiary
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,10,Journalists & Media,6,Explosives
+2,Armed Assault,10,Journalists & Media,5,Firearms
+2,Armed Assault,14,Private Citizens & Property,8,Incendiary
+3,Bombing/Explosion,10,Journalists & Media,6,Explosives
+3,Bombing/Explosion,8,Educational Institution,6,Explosives
+4,Hijacking,6,Airports & Aircraft,5,Firearms
+9,Unknown,4,Military,13,Unknown
+3,Bombing/Explosion,4,Military,6,Explosives
+2,Armed Assault,3,Police,5,Firearms
+3,Bombing/Explosion,21,Utilities,6,Explosives
+3,Bombing/Explosion,2,Government (General),6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+1,Assassination,4,Military,5,Firearms
+3,Bombing/Explosion,4,Military,6,Explosives
+2,Armed Assault,3,Police,5,Firearms
+2,Armed Assault,4,Military,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,4,Military,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+2,Armed Assault,1,Business,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+7,Facility/Infrastructure Attack,3,Police,8,Incendiary
+9,Unknown,19,Transportation,13,Unknown
+7,Facility/Infrastructure Attack,3,Police,8,Incendiary
+7,Facility/Infrastructure Attack,3,Police,8,Incendiary
+7,Facility/Infrastructure Attack,3,Police,8,Incendiary
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,11,Maritime,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+1,Assassination,4,Military,13,Unknown
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,18,Tourists,6,Explosives
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+3,Bombing/Explosion,8,Educational Institution,6,Explosives
+2,Armed Assault,4,Military,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+2,Armed Assault,7,Government (Diplomatic),8,Incendiary
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+1,Assassination,2,Government (General),5,Firearms
+3,Bombing/Explosion,4,Military,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+3,Bombing/Explosion,2,Government (General),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,12,NGO,6,Explosives
+3,Bombing/Explosion,2,Government (General),6,Explosives
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+2,Armed Assault,4,Military,5,Firearms
+4,Hijacking,6,Airports & Aircraft,6,Explosives
+4,Hijacking,6,Airports & Aircraft,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+2,Armed Assault,4,Military,5,Firearms
+2,Armed Assault,4,Military,5,Firearms
+1,Assassination,4,Military,5,Firearms
+2,Armed Assault,4,Military,8,Incendiary
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,2,Government (General),6,Explosives
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+1,Assassination,4,Military,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+2,Armed Assault,4,Military,5,Firearms
+3,Bombing/Explosion,6,Airports & Aircraft,5,Firearms
+1,Assassination,4,Military,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+2,Armed Assault,4,Military,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+1,Assassination,7,Government (Diplomatic),5,Firearms
+2,Armed Assault,4,Military,5,Firearms
+6,Hostage Taking (Kidnapping),10,Journalists & Media,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+3,Bombing/Explosion,21,Utilities,6,Explosives
+2,Armed Assault,3,Police,5,Firearms
+1,Assassination,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,18,Tourists,6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,12,NGO,6,Explosives
+1,Assassination,12,NGO,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,12,NGO,6,Explosives
+1,Assassination,12,NGO,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,7,Government (Diplomatic),6,Explosives
+5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+6,Hostage Taking (Kidnapping),8,Educational Institution,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,4,Military,5,Firearms
+1,Assassination,14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+1,Assassination,14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,2,Government (General),6,Explosives
+3,Bombing/Explosion,8,Educational Institution,6,Explosives
+1,Assassination,14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+1,Assassination,4,Military,5,Firearms
+2,Armed Assault,7,Government (Diplomatic),8,Incendiary
+2,Armed Assault,7,Government (Diplomatic),5,Firearms
+1,Assassination,14,Private Citizens & Property,13,Unknown
+2,Armed Assault,4,Military,5,Firearms
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),5,Firearms
+2,Armed Assault,7,Government (Diplomatic),8,Incendiary
+3,Bombing/Explosion,11,Maritime,6,Explosives
+3,Bombing/Explosion,11,Maritime,6,Explosives
+2,Armed Assault,21,Utilities,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,8,Educational Institution,6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+1,Assassination,4,Military,5,Firearms
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+7,Facility/Infrastructure Attack,4,Military,8,Incendiary
+6,Hostage Taking (Kidnapping),14,Private Citizens & Property,13,Unknown
+3,Bombing/Explosion,21,Utilities,6,Explosives
+7,Facility/Infrastructure Attack,3,Police,8,Incendiary
+2,Armed Assault,13,Other,5,Firearms
+6,Hostage Taking (Kidnapping),3,Police,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,4,Military,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+9,Unknown,6,Airports & Aircraft,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+1,Assassination,14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+4,Hijacking,6,Airports & Aircraft,6,Explosives
+1,Assassination,4,Military,5,Firearms
+2,Armed Assault,8,Educational Institution,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+2,Armed Assault,7,Government (Diplomatic),5,Firearms
+2,Armed Assault,7,Government (Diplomatic),5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,14,Private Citizens & Property,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+8,Unarmed Assault,7,Government (Diplomatic),2,Chemical
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,19,Transportation,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+2,Armed Assault,7,Government (Diplomatic),8,Incendiary
+2,Armed Assault,6,Airports & Aircraft,5,Firearms
+7,Facility/Infrastructure Attack,2,Government (General),8,Incendiary
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,14,Private Citizens & Property,13,Unknown
+6,Hostage Taking (Kidnapping),10,Journalists & Media,13,Unknown
+1,Assassination,4,Military,5,Firearms
+2,Armed Assault,4,Military,5,Firearms
+1,Assassination,2,Government (General),6,Explosives
+2,Armed Assault,10,Journalists & Media,5,Firearms
+1,Assassination,7,Government (Diplomatic),6,Explosives
+1,Assassination,2,Government (General),13,Unknown
+3,Bombing/Explosion,21,Utilities,6,Explosives
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+1,Assassination,3,Police,5,Firearms
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+1,Assassination,1,Business,5,Firearms
+5,Hostage Taking (Barricade Incident),1,Business,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+1,Assassination,2,Government (General),6,Explosives
+1,Assassination,1,Business,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,21,Utilities,6,Explosives
+4,Hijacking,6,Airports & Aircraft,13,Unknown
+1,Assassination,12,NGO,6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+7,Facility/Infrastructure Attack,7,Government (Diplomatic),8,Incendiary
+5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,19,Transportation,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+6,Hostage Taking (Kidnapping),4,Military,13,Unknown
+2,Armed Assault,3,Police,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,8,Incendiary
+3,Bombing/Explosion,3,Police,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,11,Maritime,5,Firearms
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),5,Firearms
+3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,15,Religious Figures/Institutions,6,Explosives
+4,Hijacking,6,Airports & Aircraft,8,Incendiary
+3,Bombing/Explosion,15,Religious Figures/Institutions,8,Incendiary
+3,Bombing/Explosion,3,Police,6,Explosives
+3,Bombing/Explosion,10,Journalists & Media,6,Explosives
+1,Assassination,14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+2,Armed Assault,2,Government (General),5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),14,Private Citizens & Property,13,Unknown
+3,Bombing/Explosion,21,Utilities,6,Explosives
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+1,Assassination,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),14,Private Citizens & Property,13,Unknown
+3,Bombing/Explosion,4,Military,6,Explosives
+1,Assassination,1,Business,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,2,Government (General),6,Explosives
+5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms
+1,Assassination,4,Military,5,Firearms
+6,Hostage Taking (Kidnapping),14,Private Citizens & Property,13,Unknown
+6,Hostage Taking (Kidnapping),15,Religious Figures/Institutions,13,Unknown
+3,Bombing/Explosion,4,Military,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+2,Armed Assault,4,Military,5,Firearms
+1,Assassination,2,Government (General),13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+1,Assassination,14,Private Citizens & Property,13,Unknown
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,8,Educational Institution,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,14,Private Citizens & Property,5,Firearms
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+1,Assassination,14,Private Citizens & Property,5,Firearms
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+1,Assassination,14,Private Citizens & Property,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+5,Hostage Taking (Barricade Incident),14,Private Citizens & Property,5,Firearms
+6,Hostage Taking (Kidnapping),10,Journalists & Media,13,Unknown
+1,Assassination,1,Business,5,Firearms
+6,Hostage Taking (Kidnapping),10,Journalists & Media,13,Unknown
+1,Assassination,7,Government (Diplomatic),5,Firearms
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,1,Business,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,1,Business,5,Firearms
+3,Bombing/Explosion,6,Airports & Aircraft,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+1,Assassination,2,Government (General),5,Firearms
+6,Hostage Taking (Kidnapping),7,Government (Diplomatic),13,Unknown
+5,Hostage Taking (Barricade Incident),7,Government (Diplomatic),5,Firearms
+1,Assassination,4,Military,6,Explosives
+6,Hostage Taking (Kidnapping),1,Business,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+1,Assassination,1,Business,6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+7,Facility/Infrastructure Attack,1,Business,8,Incendiary
+1,Assassination,4,Military,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+6,Hostage Taking (Kidnapping),2,Government (General),13,Unknown
+9,Unknown,14,Private Citizens & Property,13,Unknown
+3,Bombing/Explosion,1,Business,6,Explosives
+4,Hijacking,6,Airports & Aircraft,5,Firearms
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+2,Armed Assault,1,Business,5,Firearms
+2,Armed Assault,14,Private Citizens & Property,5,Firearms
+3,Bombing/Explosion,7,Government (Diplomatic),6,Explosives
+3,Bombing/Explosion,17,Terrorists/Non-State Militia,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+3,Bombing/Explosion,1,Business,6,Explosives
+7,Facility/Infrastructure Attack,6,Airports & Aircraft,8,Incendiary
+6,Hostage Taking (Kidnapping),2,Government (General),5,Firearms
+3,Bombing/Explosion,14,Private Citizens & Property,6,Explosives
